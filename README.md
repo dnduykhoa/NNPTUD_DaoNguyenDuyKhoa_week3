@@ -1,1 +1,2 @@
-# NNPTUD_DaoNguyenDuyKhoa_week3
+# MSSV : 2280601493
+# Họ tên : Đào Nguyễn Duy Khoa
